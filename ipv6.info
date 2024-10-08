@@ -1,0 +1,9 @@
+IPv6 Connection Type		Native with DHCP-PD
+WAN IPv6 Address		2600:8800:ff07:400:38c7:b432:3b88:186a
+WAN IPv6 Gateway		fe80::6a7d:b4ff:fe73:4c19
+LAN IPv6 Address		2600:8800:3200:2e::1/64
+LAN IPv6 Link-Local Address	fe80::3a2c:4aff:fe9a:bb30/64
+DHCP-PD				Enabled
+LAN IPv6 Prefix			2600:8800:3200:2e::/64
+DNS Address			2001:578:3f::30 2001:578:3f:1::30
+

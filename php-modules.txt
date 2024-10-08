@@ -1,0 +1,724 @@
+adodb5-php83-5.22.7            Database library for PHP
+ampache-php83-5.6.0_1          Web-based Audio file manager
+arcanist-lib-php83-20220518_5  Libraries for the command line interface for Phabricator
+arcanist-php83-20220518_5      Command line interface for Phabricator
+aws-sdk-php83-3.273.3          PHP interface for Amazon Web Services (AWS)
+bacula-web-php83-8.7.0_1       Bacula-web provides a summarized output of Bacula jobs
+baikal-php83-0.9.5             Lightweight CalDAV/CardDAV server
+davical-php83-1.1.12           Simple CalDAV server using a postgres backend
+dokuwiki-php83-20240206b       Simple and easy to use wiki, no database required
+drush-php83-8.4.12             Drupal command line and scripting interface
+hiawatha-monitor-php83-1.6_1   Monitoring tool for the Hiawatha web server
+icinga-ipl-i18n-php83-0.2.1    Icinga PHP library
+icinga-php-library-php83-0.13.1 Icinga PHP library
+icinga-php-thirdparty-php83-0.12.1 Icinga PHP thirdparty
+icingaweb2-module-businessprocess-php83-2.5.0 Manage Business Processes in Icinga Web 2
+icingaweb2-module-cube-php83-1.3.2 Drill-down view for Icinga web 2 based on custom variables
+icingaweb2-module-director-php83-1.11.1_1 Configuration frontend for Icinga 2, integrated automation
+icingaweb2-module-elasticsearch-php83-0.9.0_4 Integrate Elasticsearch into Icinga Web 2
+icingaweb2-module-fileshipper-php83-1.2.0_1 Import CSV, JSON, XML and YAML files for the Icinga Director
+icingaweb2-module-generictts-php83-2.1.0_1 Generic ticket system integration into Icinga web 2
+icingaweb2-module-grafana-php83-2.0.3 Add Grafana graphs into Icinga Web 2 to display performance metrics
+icingaweb2-module-graphite-php83-1.2.4 Graphite integration into Icinga Web 2
+icingaweb2-module-icingadb-php83-1.1.0 Publish, synchronize, and visualize Icinga data
+icingaweb2-module-idoreports-php83-0.10.1 Host and service availability reports for Icinga
+icingaweb2-module-incubator-php83-0.22.0 Incubator provides bleeding-edge libraries
+icingaweb2-module-jira-php83-1.2.2_1 Jira integration into Icinga Web 2
+icingaweb2-module-map-php83-2.0.0_4 Display hosts on OpenStreetMap
+icingaweb2-module-pdfexport-php83-0.10.2_3 Icinga PDF Export
+icingaweb2-module-reactbundle-php83-0.9.0_1 Icinga Web 2 ReactPHP-based 3rd party libraries
+icingaweb2-module-reporting-php83-1.0.1 Reporting module for Icinga Web 2
+icingaweb2-module-vsphere-php83-1.1.1_1 Automated import of your VMs and Physical Host from VMware Sphere
+icingaweb2-module-vspheredb-php83-1.4.0_3 Easily Monitor Vsphere with Icinga
+icingaweb2-module-x509-php83-1.3.1 Automates certificate monitoring with Icinga
+icingaweb2-php83-2.12.1        Next generation web interface for Icinga 1 and 2
+klg-php83-1.5_1                PHP-based looking glass for Cisco, Juniper and Quagga/Zebra routers
+librespeed-php83-5.3.3         Lightweight selfhosted speedtest
+loganalyzer-php83-4.1.13       Web Syslog and IT Event Viewer
+mantis-php83-2.26.0,1          Bug tracking system written in PHP
+mediawiki139-php83-1.39.8      Wiki engine used by Wikipedia
+mediawiki140-php83-1.40.4      Wiki engine used by Wikipedia
+mediawiki141-php83-1.41.2      Wiki engine used by Wikipedia
+mediawiki142-php83-1.42.1      Wiki engine used by Wikipedia
+mod_php83-8.3.9                PHP Scripting Language (8.3.X branch)
+moodle44-php83-4.4.1           Course management system based on social constructionism
+nextcloud-appointments-php83-2.1.4 Appointments app for Nextcloud
+nextcloud-calendar-php83-4.7.8 Calendar app for Nextcloud
+nextcloud-contacts-php83-6.0.0_3 Contacts app for Nextcloud
+nextcloud-cospend-php83-1.6.1_3 Cospend app for Nextcloud
+nextcloud-deck-php83-1.13.1    Kanban app for Nextcloud
+nextcloud-end_to_end_encryption-php83-1.15.2_3 End-to-End Encryption app for Nextcloud
+nextcloud-forms-php83-4.2.4    Forms app for Nextcloud
+nextcloud-groupfolders-php83-17.0.1 Groupfolders app for Nextcloud
+nextcloud-mail-php83-3.7.2     Mail app for Nextcloud
+nextcloud-notes-php83-4.10.0_3 Notes app for Nextcloud
+nextcloud-passman-php83-2.4.9_3 Full featured password manager for Nextcloud
+nextcloud-php83-29.0.3         Collaboration platform which runs on your own server
+nextcloud-talk-php83-19.0.4    Online meeting app for Nextcloud
+nextcloud-tasks-php83-0.16.0_3 Tasks app for Nextcloud
+nextcloud-twofactor_admin-php83-4.5.0_3 Admin create one-time TOTP app for Nextcloud
+nextcloud-twofactor_nextcloud_notification-php83-3.9.0_3 Use Nextcloud notification as MFA app for Nextcloud
+nextcloud-twofactor_webauthn-php83-1.4.0_3 U2F webauthn app for Nextcloud
+openemr-php83-7.0.2            Electronic health records and medical practice management application
+owncloud-php83-10.14.0         Personal cloud which runs on your own server
+phabricator-php83-20211218_3   Open source, software engineering platform
+phorgeit-arcanist-lib-php83-20240304 Libraries for the command line interface for Phorge.it
+phorgeit-arcanist-php83-20240304 Command line interface for Phabricator
+phorgeitphorge-php83-20240324_2 Open source, software engineering platform
+phoronix-test-suite-php83-10.8.4_2 Phoronix Benchmarking Suite
+php83-8.3.9                    PHP Scripting Language (8.3.X branch)
+php83-Ice37-3.7.10             Modern alternative to object middleware such as CORBA/COM/DCOM/COM+
+php83-aphpbreakdown-2.2.2      Code-Analyzer for PHP for Compatibility Check-UP
+php83-aphpunit-2.1             Testing framework for unit tests
+php83-bcmath-8.3.9             The bcmath shared extension for php
+php83-brotli-0.13.1            Brotli extension for PHP
+php83-bsdconv-11.6.0           PHP wrapper for bsdconv
+php83-bz2-8.3.9                The bz2 shared extension for php
+php83-calendar-8.3.9           The calendar shared extension for php
+php83-composer-2.7.7_1         Dependency Manager for PHP
+php83-ctype-8.3.9              The ctype shared extension for php
+php83-curl-8.3.9               The curl shared extension for php
+php83-dba-8.3.9                The dba shared extension for php
+php83-dddbl-2.0.1              Definition Driven Database Layer for PHP
+php83-deployer-6.4.3           Deployment tool for PHP
+php83-dom-8.3.9                The dom shared extension for php
+php83-enchant-8.3.9            The enchant shared extension for php
+php83-exif-8.3.9               The exif shared extension for php
+php83-extensions-1.0           "meta-port" to install PHP extensions
+php83-ffi-8.3.9                The ffi shared extension for php
+php83-fileinfo-8.3.9           The fileinfo shared extension for php
+php83-filter-8.3.9             The filter shared extension for php
+php83-ftp-8.3.9                The ftp shared extension for php
+php83-gd-8.3.9                 The gd shared extension for php
+php83-geos-1.0.0_1             PHP bindings for GEOS
+php83-gettext-8.3.9            The gettext shared extension for php
+php83-gmp-8.3.9                The gmp shared extension for php
+php83-google-api-php-client-2.12.4 Google api client for php
+php83-iconv-8.3.9              The iconv shared extension for php
+php83-ilias-9.2                Powerful, dynamic, PHP and MySQL based e-learning platform
+php83-imap-8.3.9               The imap shared extension for php
+php83-intl-8.3.9               The intl shared extension for php
+php83-kanboard-1.2.37          Simple visual task board software
+php83-ldap-8.3.9               The ldap shared extension for php
+php83-libawl-0.64              Andrew.s Web Libraries - PHP Utility Libraries
+php83-lz4-0.4.3                LZ4 extension for PHP
+php83-matomo-4.13.3            Open Source Web Analytics Software Program
+php83-maxminddb-1.6.0          MaxMind DB Reader extension for PHP
+php83-mbstring-8.3.9           The mbstring shared extension for php
+php83-mysqli-8.3.9             The mysqli shared extension for php
+php83-odbc-8.3.9               The odbc shared extension for php
+php83-opcache-8.3.9            The opcache shared extension for php
+php83-opencc-0.0.0.20201211    OpenCC shared extension for php
+php83-pcntl-8.3.9              The pcntl shared extension for php
+php83-pdo-8.3.9                The pdo shared extension for php
+php83-pdo_dblib-8.3.9          The pdo_dblib shared extension for php
+php83-pdo_firebird-8.3.9       The pdo_firebird shared extension for php
+php83-pdo_mysql-8.3.9          The pdo_mysql shared extension for php
+php83-pdo_odbc-8.3.9           The pdo_odbc shared extension for php
+php83-pdo_pgsql-8.3.9          The pdo_pgsql shared extension for php
+php83-pdo_sqlite-8.3.9         The pdo_sqlite shared extension for php
+php83-pear-1.10.13             PEAR framework for PHP
+php83-pear-Auth-1.6.4          PEAR class for creating an authentication system
+php83-pear-Auth_HTTP-2.1.8     PEAR HTTP authentication
+php83-pear-Auth_PrefManager-1.2.2 PEAR preferences management class
+php83-pear-Auth_RADIUS-1.1.0   PEAR wrapper classes for the RADIUS PECL
+php83-pear-Auth_SASL-1.2.0     PEAR abstraction of various SASL mechanism responses
+php83-pear-Auth_SASL2-0.3.0    Abstraction of various SASL mechanism responses
+php83-pear-Benchmark-1.2.9     Framework to benchmark PHP scripts or function calls
+php83-pear-Cache-1.5.6_1       PEAR framework for caching of arbitrary data
+php83-pear-Cache_Lite-1.8.3,1  Fast and Safe little cache system
+php83-pear-Config-1.10.12      Your configurations swiss-army knife
+php83-pear-Console_Color-1.0.3 PEAR use ANSI console colors
+php83-pear-Console_CommandLine-1.2.2 Full featured command line options and arguments parser
+php83-pear-Console_Getargs-1.4.0 PEAR command-line arguments parser
+php83-pear-Console_Table-1.3.1 Library that makes it easy to build console style tables
+php83-pear-Contact_Vcard_Build-1.1.2 PEAR class to build (create) and fetch vCard 2.1 and 3.0 text blocks
+php83-pear-Contact_Vcard_Parse-1.32.0 PEAR class to parse vCard 2.1 and 3.0 files
+php83-pear-Crypt_Blowfish-1.1.0.r2 PEAR class for blowfish encryption
+php83-pear-Crypt_CBC-1.0.1     Class to emulate Perl's Crypt::CBC module
+php83-pear-Crypt_CHAP-1.5.0    PEAR class for generating CHAP packets
+php83-pear-Crypt_DiffieHellman-0.2.6 PEAR class implementing Diffie-Hellman Key Exchange protocol for PHP5
+php83-pear-Crypt_GPG-1.6.9     GNU Privacy Guard (GPG)
+php83-pear-Crypt_HMAC2-1.0.0   Implementation of Hashed Message Authentication Code for PHP5
+php83-pear-Crypt_MicroID-0.1.0 PHP MicroID library
+php83-pear-Crypt_RC4-1.0.3     PEAR encryption class for RC4 encryption
+php83-pear-Crypt_RSA-1.2.1_1   PEAR class allows you to use two-key strong cryptography
+php83-pear-Crypt_XXTEA-0.9.0   PEAR XXTEA encryption algorithm
+php83-pear-DB-1.12.2,1         PEAR Database Abstraction Layer
+php83-pear-DBA-1.1.1           Berkely-style database abstraction class
+php83-pear-DBA_Relational-0.2.0_1 Berkely-style database abstraction class
+php83-pear-DB_DataObject-1.11.5_1 SQL Builder, Object Interface to Database Tables
+php83-pear-DB_DataObject_FormBuilder-1.0.2 Automatically build HTML_QuickForm objects using DB_DataObject
+php83-pear-DB_Pager-0.7.2      PEAR Database Abstraction Layer
+php83-pear-DB_QueryTool-1.1.2  PEAR OO-interface for easily retrieving and modifying data in a DB
+php83-pear-DB_Sqlite_Tools-0.1.7 Object-oriented interface to backup SQLite databases
+php83-pear-DB_Table-1.5.6_1,1  PEAR object-oriented interface to a database table
+php83-pear-DB_ldap-1.2.1       PEAR DB compliant interface to LDAP servers
+php83-pear-DB_ldap2-0.5.1_1    PEAR DB compliant interface to LDAP v2 and v3 database
+php83-pear-Date-1.4.7          Generic date/time handling class for PEAR
+php83-pear-Date_Holidays-0.21.8_2 PEAR driver based class to calculate holidays
+php83-pear-Date_Holidays_Austria-0.1.6 Driver based class to calculate holidays in Austria
+php83-pear-Date_Holidays_Brazil-0.1.2 Driver based class to calculate holidays in Brazil
+php83-pear-Date_Holidays_Denmark-0.1.3 Driver based class to calculate holidays in Denmark
+php83-pear-Date_Holidays_Discordian-0.1.1 Driver based class to calculate Discordian holidays
+php83-pear-Date_Holidays_EnglandWales-0.1.5 Driver based class to calculate holidays in England and Wales
+php83-pear-Date_Holidays_Germany-0.1.2_1 Driver based class to calculate holidays in Germany
+php83-pear-Date_Holidays_Iceland-0.1.2 Driver based class to calculate holidays in Iceland
+php83-pear-Date_Holidays_Ireland-0.1.3 Driver based class to calculate holidays in Ireland
+php83-pear-Date_Holidays_Italy-0.1.1 Driver based class to calculate holidays in Italy
+php83-pear-Date_Holidays_Japan-0.1.3 Driver based class to calculate holidays in Japan
+php83-pear-Date_Holidays_Netherlands-0.1.4 Driver based class to calculate holidays in the Netherlands
+php83-pear-Date_Holidays_Norway-0.1.2 Driver based class to calculate holidays in Norway
+php83-pear-Date_Holidays_PHPdotNet-0.1.2 Driver based class to calculate birthdays of members of PHP.net
+php83-pear-Date_Holidays_Romania-0.1.2 Driver based class to calculate holidays in Romania
+php83-pear-Date_Holidays_Slovenia-0.1.2 Driver based class to calculate holidays in Slovenia
+php83-pear-Date_Holidays_Sweden-0.1.3 Driver based class to calculate holidays in Sweden
+php83-pear-Date_Holidays_UNO-0.1.3 Driver based class to calculate holidays in the UNO
+php83-pear-Date_Holidays_USA-0.1.1_1 Driver based class to calculate holidays in the USA
+php83-pear-Date_Holidays_Ukraine-0.1.2 Driver based class to calculate holidays in the Ukraine
+php83-pear-Event_Dispatcher-1.1.0 PEAR dispatch notifications using PHP callbacks
+php83-pear-FSM-1.4.0           PEAR Finite State Machine
+php83-pear-File-1.4.1,2        PEAR common file and directory routines
+php83-pear-File_Archive-1.5.5  PEAR class to manipulate tar, gz, tgz, bz2, tbz, zip, ar (deb) files
+php83-pear-File_Bittorrent2-1.3.1 Decode and Encode data in Bittorrent format
+php83-pear-File_DNS-0.1.0      PEAR class to read and write RFC1033-style DNS Zonefiles
+php83-pear-File_Find-1.3.3     PEAR class that facilitates the search of filesystems
+php83-pear-File_Fortune-1.0.0_1 Interface for reading from and writing to fortune files
+php83-pear-File_Fstab-2.0.3    PEAR class to read and write fstab files
+php83-pear-File_Gettext-0.4.2  PEAR GNU Gettext file parser
+php83-pear-File_HtAccess-1.2.1 PEAR class to manipulate .htaccess files
+php83-pear-File_Iterator-5.0.0 PEAR FileIterator implementation
+php83-pear-File_MARC-1.4.1     Parse, modify, and create MARC records
+php83-pear-File_PDF-0.3.3      PEAR class to generate PDFs
+php83-pear-File_Passwd-1.1.7   PEAR class to manipulate many kinds of password files
+php83-pear-File_SMBPasswd-1.0.3 PEAR class for managing SAMBA style password files
+php83-pear-Games_Chess-1.0.1   PEAR methods for constructing and validating chess games in PGN
+php83-pear-HTML_AJAX-0.5.8     PHP and JavaScript AJAX library
+php83-pear-HTML_BBCodeParser-1.2.3 Parser to replace UBB style tags with their HTML equivalents
+php83-pear-HTML_CSS-1.5.4      PEAR class for generating CSS declarations
+php83-pear-HTML_Common-1.2.5   PEAR::HTML_Common is a base class for other HTML classes
+php83-pear-HTML_Common2-2.3.1  PEAR::HTML_Common2 is a base class for other HTML classes
+php83-pear-HTML_Crypt-1.3.4    Encrypts text which is later decoded using JavaScript on the client side
+php83-pear-HTML_Form-1.3.1     PEAR simple HTML form package
+php83-pear-HTML_Javascript-1.1.2 Provides an interface for creating simple JS scripts
+php83-pear-HTML_Page2-0.6.5    PEAR base class for XHTML page generation
+php83-pear-HTML_QuickForm-3.2.16 Provide methods for creating, validating, and processing HTML forms
+php83-pear-HTML_QuickForm2-2.3.2 PHP5 rewrite of the HTML_QuickForm package
+php83-pear-HTML_QuickForm_Controller-1.0.10 The add-on to HTML_QuickForm that allows building of multipage forms
+php83-pear-HTML_QuickForm_Livesearch-0.4.1 Element for PEAR::HTML_QuickForm to enable a suggest search
+php83-pear-HTML_QuickForm_Renderer_Tableless-0.6.2 Implementation of Tableless Renderer for HTML_QuickForm
+php83-pear-HTML_QuickForm_SelectFilter-1.0.0 Element for PEAR::HTML_QuickForm that defines dynamic filters
+php83-pear-HTML_QuickForm_advmultiselect-1.5.1 Element for PEAR::HTML_QuickForm that defines a 2 box multi-select
+php83-pear-HTML_Select-1.3.1   PEAR::HTML_Select is a class for generating HTML form select elements
+php83-pear-HTML_Select_Common-1.2.0_1 Some small PEAR classes to handle common <select> lists
+php83-pear-HTML_Table-1.8.4    Makes design of HTML tables easy, flexible, reusable, and efficient
+php83-pear-HTML_TagCloud-1.0.0 Generate TagCloud in HTML And Visualize Tags
+php83-pear-HTML_Template_Flexy-1.3.13 Extremely powerful Tokenizer driven Template engine
+php83-pear-HTML_Template_IT-1.3.1,1 Integrated Templates
+php83-pear-HTML_Template_PHPLIB-1.6.1 PEAR template API ported from PHPLIB
+php83-pear-HTML_Template_Sigma-1.3.0 Implementation of Integrated Templates API with template 'compilation' added
+php83-pear-HTML_TreeMenu-1.2.2 Provides an API to create a HTML tree
+php83-pear-HTTP-1.4.1          PEAR miscellaneous HTTP utilities
+php83-pear-HTTP_Client-1.2.1   PEAR classes for high level HTTP requests
+php83-pear-HTTP_Download-1.1.4 PEAR class to send HTTP downloads
+php83-pear-HTTP_FloodControl-0.1.1 PEAR classes to detect and protect from attempts to flood a site
+php83-pear-HTTP_Header-1.2.1   PEAR OO interface to modify and handle HTTP headers and status codes
+php83-pear-HTTP_Request-1.4.4  PEAR classes providing an easy way to perform HTTP requests
+php83-pear-HTTP_Request2-2.6.0,1 PEAR classes providing an easy way to perform HTTP requests
+php83-pear-HTTP_Server-0.4.1   HTTP server class
+php83-pear-HTTP_Session2-0.7.3 PHP5 Session Handler
+php83-pear-HTTP_Upload-0.9.1   Easy and secure management of files submitted via HTML Forms
+php83-pear-HTTP_WebDAV_Client-1.0.2 WebDAV Stream Wrapper Class
+php83-pear-HTTP_WebDAV_Server-1.0.0RC8 WebDAV Server Baseclass
+php83-pear-Horde_Crypt-2.7.12  Horde Cryptography API
+php83-pear-Horde_Crypt_Blowfish-1.1.4 Horde blowfish encryption for PHP string data
+php83-pear-Horde_Image-2.6.1   Horde Image API
+php83-pear-Horde_Imap_Client-2.29.18 Horde IMAP abstraction interface
+php83-pear-Horde_Kolab_Server-2.0.5 Horde library for manipulating the Kolab user database
+php83-pear-Horde_Log-2.3.0_1   Horde Logging library
+php83-pear-Horde_Mapi-1.0.10   Horde MAPI utility library
+php83-pear-Horde_Smtp-1.9.6    Horde SMTP Client
+php83-pear-Horde_Vfs-2.4.2     Horde Virtual File System API
+php83-pear-I18N-1.0.0          Internationalization package
+php83-pear-I18Nv2-0.11.4       PEAR Internationalization
+php83-pear-Image_3D-0.4.2      PEAR class allows the rendering of 3 dimensional objects
+php83-pear-Image_Barcode-1.1.3 PEAR class for barcode generation
+php83-pear-Image_Barcode2-0.2.3 PEAR class for barcode generation
+php83-pear-Image_Canvas-0.3.2_1 OO PEAR common interface to image drawing
+php83-pear-Image_Color-1.0.6   Manage and handles color data and conversions
+php83-pear-Image_Graph-0.8.0   OO PEAR graph rendering package
+php83-pear-Image_GraphViz-1.3.0 Interface to AT&T's GraphViz tools
+php83-pear-Image_Transform-0.9.5 Standard interface to manipulate images using different libraries
+php83-pear-LiveUser-0.16.14_1  PEAR user authentication and permission management framework
+php83-pear-LiveUser_Admin-0.4.0_1 PEAR user authentication and permission management framework
+php83-pear-Log-1.14.4          PEAR logging utilities
+php83-pear-MDB-1.3.0           PEAR unified API for DB access, based on user meta data
+php83-pear-MDB2-2.5.0.b5_1     PEAR database abstraction layer
+php83-pear-MDB2_Driver_mysqli-1.5.0.b4 PEAR MySQL MDB2 driver
+php83-pear-MDB2_Driver_pgsql-1.5.0.b4_2 PEAR pgsql MDB2 driver
+php83-pear-MDB2_Schema-0.8.6   PEAR XML based database schema manager
+php83-pear-MDB_QueryTool-1.2.3 PEAR OO-interface for easily retrieving and modifying data in a DB
+php83-pear-MIME_Type-1.4.1     PEAR class for dealing with MIME types
+php83-pear-Mail-1.6.0,1        PEAR class that provides multiple interfaces for sending emails
+php83-pear-Mail_Mbox-0.6.3     PEAR Read and modify Unix MBOXes
+php83-pear-Mail_Mime-1.10.12,2 PEAR classes to create and decode MIME messages
+php83-pear-Mail_Queue-1.2.7_1  PEAR class for put mails in queue and send them later in background
+php83-pear-Mail_mimeDecode-1.5.6_1 Provides a class to decode mime messages
+php83-pear-Math_BigInteger-1.0.3 Pure-PHP arbitrary precision integer arithmetic library
+php83-pear-Math_Combinatorics-1.0.0,1 Package that produces combinations and permutations
+php83-pear-Math_Fraction-0.4.1 Classes that represent and manipulate fractions
+php83-pear-Net_CheckIP-1.2.2   Check the syntax of IPv4 addresses
+php83-pear-Net_Cyrus-0.3.2     PEAR class to administer Cyrus IMAP servers
+php83-pear-Net_DIME-1.0.2,1    The PEAR::Net_DIME class implements DIME encoding
+php83-pear-Net_DNS2-1.5.4_1    PHP Resolver library used to communicate with a DNS server
+php83-pear-Net_DNSBL-1.3.7_1   PEAR DNSBL Checker
+php83-pear-Net_Dict-1.0.7      PEAR interface to the DICT protocol
+php83-pear-Net_FTP-1.4.1       PEAR OO interface to the PHP FTP functions plus some additions
+php83-pear-Net_Finger-1.0.1    PEAR class that provides a tool for querying finger servers
+php83-pear-Net_Gearman-0.2.3_3 PHP interface to Gearman
+php83-pear-Net_Geo-1.0.5       Geographical locations based on Internet address
+php83-pear-Net_GeoIP-1.0.0.r1_1 Library to perform geo-location lookups of IP addresses
+php83-pear-Net_Growl-2.7.0     Send notifications to Growl
+php83-pear-Net_IDNA-0.8.1      Pear Punycode encoding and decoding package
+php83-pear-Net_IMAP-1.1.4      PEAR class that provides an implementation of the IMAP protocol
+php83-pear-Net_IPv4-1.3.5      IPv4 network calculations and validation
+php83-pear-Net_IPv6-1.3.0.b4_2 Check and validate IPv6 addresses
+php83-pear-Net_Ident-1.1.0     PEAR identification protocol implementation
+php83-pear-Net_LDAP-1.1.5_1    OO interface for searching and manipulating LDAP-entries
+php83-pear-Net_LDAP2-2.2.0,1   OO interface for searching and manipulating LDAP-entries
+php83-pear-Net_LMTP-1.0.2      PEAR implementation of the RFC2033 LMTP protocol
+php83-pear-Net_MAC-0.1.5_1     PEAR class that validates and formats MAC addresses
+php83-pear-Net_NNTP-1.5.2,1    PEAR implementation of the NNTP protocol
+php83-pear-Net_Nmap-1.0.5      Simple Wrapper Class for the Nmap Utility
+php83-pear-Net_POP3-1.3.8      Provides a POP3 class to access POP3 server
+php83-pear-Net_Ping-2.4.5      PEAR class to execute ping
+php83-pear-Net_Portscan-1.0.3  Provides an API for scanning ports
+php83-pear-Net_SMS-0.2.1       PEAR SMS functionality
+php83-pear-Net_SMTP-1.12.1     PEAR class that provides an implementation of the SMTP protocol
+php83-pear-Net_Server-1.0.3    Generic server class
+php83-pear-Net_Sieve-1.4.7     PEAR class to handle talking to timsieved
+php83-pear-Net_SmartIRC-1.1.14 PEAR class for communication with IRC networks
+php83-pear-Net_Socket-1.2.2    PEAR Network Socket Interface
+php83-pear-Net_Traceroute-0.21.3 PEAR class to execute traceroute
+php83-pear-Net_URL-1.0.15      Easy parsing of URLs
+php83-pear-Net_URL2-2.2.1      PEAR Class for parsing and handling URL
+php83-pear-Net_URL_Mapper-0.9.1 Simple and flexible way to build nice URLs for web applications
+php83-pear-Net_UserAgent_Detect-2.5.2_1 PEAR class that determines the Web browser, version, and platform
+php83-pear-Net_UserAgent_Mobile-1.0.0 PEAR class that parses HTTP mobile user agent string
+php83-pear-Net_Vpopmaild-0.3.2 PEAR Class for accessing Vpopmail's vpopmaild daemon
+php83-pear-Net_Whois-1.0.6     Tool to query internet domain name services
+php83-pear-Numbers_Roman-1.0.2 PEAR methods for converting to and from Roman Numerals
+php83-pear-Numbers_Words-0.16.4 PEAR package provides methods for spelling numerals in words
+php83-pear-OLE-1.0.0.r3        PEAR class for reading and writing OLE containers
+php83-pear-PEAR_Info-1.9.2_4   Show Information about your PEAR install and its packages
+php83-pear-PEAR_PackageFileManager-1.7.2 PEAR class to maintain PEAR packages
+php83-pear-PEAR_PackageFileManager2-1.0.4 PEAR class to maintain PEAR packages
+php83-pear-PEAR_PackageFileManager_Plugins-1.0.4 The plugins for PEAR_PackageFileManager
+php83-pear-PHPTAL-1.3.0        XML/XHTML template library for PHP
+php83-pear-PHPUnit_MockObject-6.1.2 Mock Object library for PHPUnit
+php83-pear-PHP_Archive-0.14.0  Create and Use PHP Archive files
+php83-pear-PHP_ArrayOf-0.2.1   Abstract class package to create arrays of specific element types
+php83-pear-PHP_Beautifier-0.1.15_1 PEAR beautifier for PHP
+php83-pear-PHP_CodeCoverage-11.0.3 Library that provides PHP code coverage information
+php83-pear-PHP_CodeSniffer-3.7.2 PHP Script Tokenises and Sniffs PHP and JavaScript code
+php83-pear-PHP_Compat-1.5.0    Provides missing functionality for older versions of PHP
+php83-pear-PHP_CompatInfo-1.9.0_5 PEAR class to find out the minimum version and extensions required
+php83-pear-PHP_Parser-0.2.2    PHP Grammar Parser
+php83-pear-PHP_ParserGenerator-0.1.7 Convert files from lemon parser to php5
+php83-pear-PHP_Shell-0.3.2_1   Interactive PHP Shell
+php83-pear-PHP_Timer-7.0.0     Utility class for timing
+php83-pear-PHP_TokenStream-4.0.4 Wrapper around PHP tokenizer extension
+php83-pear-PHP_UML-1.6.2       PEAR Class to Create UML Representation of PHP Code
+php83-pear-Pager-2.5.1         Data paging class
+php83-pear-Payment_DTA-1.4.3   PEAR class to create and handle DTA files used in Germany
+php83-pear-PhpDocumentor-1.4.4 Provides automatic documenting of php-api from the source
+php83-pear-SOAP-0.14.0         PEAR SOAP Client/Server for PHP
+php83-pear-SebastianBergmann_FinderFacade-2.0.0 Convenience wrapper for Symfony Finder component
+php83-pear-SebastianBergmann_Git-2.1.4 Simple PHP wrapper for Git
+php83-pear-SebastianBergmann_PHPCPD-6.0.3 Copy/Paste Detector (CPD) for PHP code
+php83-pear-SebastianBergmann_PHPLOC-7.0.2 Tool for quickly measuring the size of a PHP project
+php83-pear-SebastianBergmann_Version-5.0.0 Manage the version number of Git-hosted PHP projects
+php83-pear-Services_Amazon-0.9.0 PHP interface to Amazon Product Advertising API
+php83-pear-Services_Amazon_S3-0.4.0 PHP API for Amazon S3 (Simple Storage Service)
+php83-pear-Services_Blogging-0.2.4 PHP interface to Blog
+php83-pear-Services_Compete-0.1.0 PHP interface to Compete SnapShop API
+php83-pear-Services_Delicious-0.6.0 PEAR Client for the del.icio.us web service
+php83-pear-Services_Digg-0.4.7_1 PHP interface to Digg's API
+php83-pear-Services_Facebook-0.2.14 PHP interface to Facebook's API
+php83-pear-Services_GeoNames-1.0.1 PHP5 Interface to the GeoNames Public API
+php83-pear-Services_Google-0.2.0 PHP interface to access the Google SOAP Web APIs
+php83-pear-Services_JSON-1.0.3 PHP implementation of json_encode/decode
+php83-pear-Services_OpenSearch-0.2.0 Search A9 OpenSearch compatible engines
+php83-pear-Services_Pingback-0.2.2 Pingback user-agent class
+php83-pear-Services_ShortURL-0.3.1 Abstract PHP5 interface for shortening and expanding short URLs
+php83-pear-Services_TinyURL-0.1.2 PHP interface to TinyURL's API
+php83-pear-Services_TwitPic-0.1.0 PHP Interface to TwitPic's API
+php83-pear-Services_Twitter-0.7.0 PHP interface to Twitter's API
+php83-pear-Services_W3C_CSSValidator-0.2.3 PHP interface to W3C CSS Validator API
+php83-pear-Services_W3C_HTMLValidator-1.0.0,1 Object Oriented Interface to the W3C HTML Validator service
+php83-pear-Services_Weather-1.4.7,1 PEAR interface to various online weather-services
+php83-pear-Services_Yadis-0.5.3 Implementation of the Yadis Specification 1.0 protocol for PHP5
+php83-pear-Services_Yahoo-0.2.0 Provides access to the Yahoo! Web Services
+php83-pear-Services_urlTea-0.1.0 PHP interface to urlTea's API
+php83-pear-Spreadsheet_Excel_Writer-0.9.4 PEAR class for writing Microsoft Excel files
+php83-pear-Structures_DataGrid-0.9.3 Full-featured tabular structured data management package
+php83-pear-Structures_DataGrid_DataSource_Array-0.1.4 DataSource driver using arrays
+php83-pear-Structures_DataGrid_DataSource_CSV-0.1.6 DataSource driver using CSV files
+php83-pear-Structures_DataGrid_DataSource_DB-0.1.1 DB datasource driver for pear-Structures_DataGrid
+php83-pear-Structures_DataGrid_DataSource_PDO-0.2.0 DataSource driver using PHP Data Objects (PDO) and an SQL query
+php83-pear-Structures_DataGrid_Renderer_CSV-0.1.4 Renderer driver that generates a CSV string
+php83-pear-Structures_DataGrid_Renderer_Console-0.1.1 Console_Table Renderer for pear-Structures_DataGrid
+php83-pear-Structures_DataGrid_Renderer_Flexy-0.1.4 Renderer for pear-Structures_DataGrid using HTML_Template_Flexy
+php83-pear-Structures_DataGrid_Renderer_HTMLSortForm-0.1.3 HTMLSortForm Renderer for pear-Structures_DataGrid
+php83-pear-Structures_DataGrid_Renderer_HTMLTable-0.1.6 HTML_Table Renderer for pear-Structures_DataGrid
+php83-pear-Structures_DataGrid_Renderer_Pager-0.1.3 Renderer driver using PEAR::Pager
+php83-pear-Structures_DataGrid_Renderer_XLS-0.1.3 Renderer driver that generates a XLS string
+php83-pear-Structures_DataGrid_Renderer_XML-0.1.3 Renderer driver that generates a XML string
+php83-pear-Structures_DataGrid_Renderer_XUL-0.1.3 XUL Renderer for pear-Structures_DataGrid
+php83-pear-Structures_LinkedList-0.2.2 Implements singly and doubly-linked lists
+php83-pear-Symfony_Component_Console-2.4.4 Symfony2 Console Component
+php83-pear-Symfony_Component_Finder-2.4.4 Symfony2 Finder Component
+php83-pear-Symfony_Component_Yaml-2.4.4 Symfony2 Yaml Component
+php83-pear-System_Command-1.0.8 PEAR command line execution interface
+php83-pear-Testing_Selenium-0.4.4 PEAR Binding - Once more unto the breach
+php83-pear-Text_Diff-1.2.2     Engine for performing and rendering text diffs
+php83-pear-Text_Figlet-1.0.2   Render text using FIGlet fonts
+php83-pear-Text_Highlighter-0.8.0 PEAR Syntax highlighting
+php83-pear-Text_Password-1.2.1 PEAR random password creator
+php83-pear-Text_Spell_Audio-0.1.0 Generate a sound clip saying the contents of a string of characters
+php83-pear-Text_Template-4.0.0 Simple template engine
+php83-pear-Text_Wiki-1.2.3     Abstracts parsing and rendering rules for Wiki markup
+php83-pear-TheSeer_DirectoryScanner-1.3.3 Recursive directory scanner and filter
+php83-pear-TheSeer_fDOMDocument-1.6.7 Extension to PHP standard DOM
+php83-pear-TheSeer_fXSL-1.1.0  XSL wrapper / extension to the PHP 5.x XSLTProcessor
+php83-pear-Translation2-2.0.4,1 PEAR class for multilingual applications management
+php83-pear-UDDI-0.2.4          PEAR UDDI for PHP
+php83-pear-URI_Template-0.3.3  Parser for URI Templates
+php83-pear-VFS-0.3.0           PEAR Virtual File System API
+php83-pear-Validate-0.8.6      PEAR Validation class
+php83-pear-Validate_AU-0.1.4_1 PEAR data validation class for Australia
+php83-pear-Validate_Finance-0.5.6 PEAR Finance Validation class
+php83-pear-Validate_Finance_CreditCard-0.7.0 PEAR CreditCard Validation class
+php83-pear-Validate_ISPN-0.8.0 Validation class for ISPN (International Standard Product Numbers)
+php83-pear-Validate_US-0.5.5   PEAR data validation class for US
+php83-pear-Var_Dump-1.0.4_1    Provides methods for dumping structured information about a variable
+php83-pear-VersionControl_Git-0.5.0 OO interface to handle Git repository
+php83-pear-VersionControl_SVN-0.5.2 Wrapper interface for the Subversion command-line client
+php83-pear-XML_Beautifier-1.2.2 PEAR class to format XML documents
+php83-pear-XML_DTD-0.5.2       Parsing of DTD files and DTD validation of XML files
+php83-pear-XML_Feed_Parser-1.0.5 Providing a unified API for handling Atom/RSS
+php83-pear-XML_GRDDL-0.2.0     PHP library for dealing with GRDDL
+php83-pear-XML_HTMLSax-2.1.2   PEAR SAX parser for HTML and other badly formed XML documents
+php83-pear-XML_NITF-1.1.1      PEAR NITF XML parser
+php83-pear-XML_Parser-1.3.8    PEAR XML parsing class based on PHP's bundled expat
+php83-pear-XML_Query2XML-1.7.2 PEAR class transform SQL queries into XML data
+php83-pear-XML_RPC-1.5.5       PHP implementation of the XML-RPC protocol
+php83-pear-XML_RPC2-1.1.5      XML-RPC client/server library
+php83-pear-XML_RSS-1.1.0       PEAR RSS parser
+php83-pear-XML_SVG-1.1.0       PEAR object-oriented API for building SVG documents
+php83-pear-XML_Serializer-0.21.0 PEAR Swiss-army knive for reading and writing XML files
+php83-pear-XML_Transformer-1.1.2 PEAR XML Transformations in PHP
+php83-pear-XML_Tree-1.1_2      PEAR class for representing XML data in a tree structure
+php83-pear-XML_Util-1.4.5      PEAR XML utility class
+php83-pear-XML_Wddx-1.0.2      PEAR Wddx pretty serializer and deserializer
+php83-pear-YAML-1.0.6          The Symfony YAML Component
+php83-pear-channel-doctrine-20130618 PEAR channel pear.doctrine-project.org
+php83-pear-channel-ezc-20060124 PEAR channel components.ez.no
+php83-pear-channel-geshi-20180906 PEAR channel pear.geshi.org
+php83-pear-channel-horde-20160602 PEAR channel pear.horde.org
+php83-pear-channel-openpear-20111203 PEAR channel openpear.org
+php83-pear-channel-pdepend-20100520 PEAR channel pear.pdepend.org
+php83-pear-channel-phing-20120813 PEAR channel pear.phing.info
+php83-pear-channel-phpdoc-20120214 PEAR channel pear.phpdoc.org
+php83-pear-channel-phpmd-20120607 PEAR channel pear.phpmd.org
+php83-pear-channel-pirum-20110921_1 PEAR channel pear.pirum-project.org
+php83-pear-channel-symfony-20110701 PEAR channel pear.symfony-project.com
+php83-pear-channel-symfony2-20110826_2 PEAR channel pear.symfony.com
+php83-pear-channel-theseer-20120501_1 PEAR channel pear.netpirates.net
+php83-pear-channel-twig-20140108 PEAR channel pear.twig-project.org
+php83-pear-codegen-1.0.7       Tool to create code generators that operate on XML descriptions
+php83-pear-doctrine-DoctrineCommon-2.3.0 Shared code for Doctrine PHP object relational mapper
+php83-pear-doctrine-DoctrineDBAL-2.3.4 Database abstraction layer used to power the ORM package
+php83-pear-ezc_Base-1.8        Base package that all ezc components packages rely on
+php83-pear-ezc_ConsoleTools-1.6.1 Set of classes to do different actions with the console
+php83-pear-geshi-geshi-1.0.9.1 Generic syntax highlighter written in PHP
+php83-pear-horde-Horde_ActiveSync-2.41.9 Horde ActiveSync Server Library
+php83-pear-horde-Horde_Alarm-2.2.10 PEAR Horde alarm libraries
+php83-pear-horde-Horde_Argv-2.1.0 Horde command-line argument parsing package
+php83-pear-horde-Horde_Auth-2.2.2 Horde Authentication API
+php83-pear-horde-Horde_Autoloader-2.1.2 Horde Autoloader
+php83-pear-horde-Horde_Autoloader_Cache-2.1.4 Horde Autoloader Cache
+php83-pear-horde-Horde_Browser-2.0.16 Horde Browser API
+php83-pear-horde-Horde_Cache-2.5.5 Horde Caching API
+php83-pear-horde-Horde_Cli-2.3.0 Horde Command Line Interface API
+php83-pear-horde-Horde_Compress-2.2.4 Horde Compression API
+php83-pear-horde-Horde_Compress_Fast-1.1.1 Horde Fast Compression Library
+php83-pear-horde-Horde_Constraint-2.0.3 Horde Constraint library
+php83-pear-horde-Horde_Controller-2.0.5 Horde Controller libraries
+php83-pear-horde-Horde_Core-2.31.18 Horde Core Framework libraries
+php83-pear-horde-Horde_CssMinify-1.0.4 Horde CSS Minification
+php83-pear-horde-Horde_Css_Parser-1.0.11 Horde CSS Parser
+php83-pear-horde-Horde_Data-2.1.5 Horde Data API
+php83-pear-horde-Horde_Date-2.4.1 Horde Date package
+php83-pear-horde-Horde_Date_Parser-2.0.7 Horde Date Parser
+php83-pear-horde-Horde_Dav-1.1.4 Horde library for WebDAV, CalDAV, CardDAV
+php83-pear-horde-Horde_Db-2.4.1 Horde Database Libraries
+php83-pear-horde-Horde_Editor-2.0.5 Horde Editor API
+php83-pear-horde-Horde_Exception-2.0.8 Horde Exception Handler
+php83-pear-horde-Horde_Feed-2.0.4 Horde Feed libraries
+php83-pear-horde-Horde_Form-2.0.20 Horde Form API
+php83-pear-horde-Horde_Group-2.1.1 Horde User Groups System
+php83-pear-horde-Horde_HashTable-1.2.6 Horde Hash Table Interface
+php83-pear-horde-Horde_History-2.3.6 Horde API for tracking the history of an object
+php83-pear-horde-Horde_Http-2.1.7 Horde HTTP libraries
+php83-pear-horde-Horde_Icalendar-2.1.8 Horde iCalendar API
+php83-pear-horde-Horde_Idna-1.1.2 Horde IDNA backend normalization package
+php83-pear-horde-Horde_Imsp-2.0.10 Horde IMSP API
+php83-pear-horde-Horde_Injector-2.0.5 Horde dependency injection container
+php83-pear-horde-Horde_Itip-2.1.2 Horde iTip invitation response handling
+php83-pear-horde-Horde_JavascriptMinify-1.1.5 Horde Javascript Minification
+php83-pear-horde-Horde_Kolab_Format-2.0.9 Horde library for reading/writing Kolab data formats
+php83-pear-horde-Horde_Kolab_Session-2.0.3 Horde library for managing an active Kolab session
+php83-pear-horde-Horde_Kolab_Storage-2.2.4 Horde library for handling Kolab data stored on an IMAP server
+php83-pear-horde-Horde_Ldap-2.4.2 Horde LDAP libraries
+php83-pear-horde-Horde_ListHeaders-1.2.5 Horde List Headers Parsing Library
+php83-pear-horde-Horde_Lock-2.1.4 Horde Resource Locking System
+php83-pear-horde-Horde_LoginTasks-2.0.8 Horde Login Tasks System
+php83-pear-horde-Horde_Mail-2.6.6 Horde Mail Library
+php83-pear-horde-Horde_Mail_Autoconfig-1.0.3 Horde Mail Autoconfiguration
+php83-pear-horde-Horde_Memcache-2.1.2 Horde Memcache API
+php83-pear-horde-Horde_Mime-2.11.2 Horde MIME Library
+php83-pear-horde-Horde_Mime_Viewer-2.2.4 Horde MIME Viewer Library
+php83-pear-horde-Horde_Mongo-1.1.0 Horde Mongo Configuration
+php83-pear-horde-Horde_Nls-2.2.1_1 Horde Native Language Support
+php83-pear-horde-Horde_Notification-2.0.4 Horde Notification System
+php83-pear-horde-Horde_Oauth-2.0.4 Horde OAuth client/server
+php83-pear-horde-Horde_Pack-1.0.7 Horde Pack Utility
+php83-pear-horde-Horde_Pdf-2.0.8 Horde PDF library
+php83-pear-horde-Horde_Perms-2.1.8 Horde Permissions System
+php83-pear-horde-Horde_Prefs-2.9.0 Horde Preferences API
+php83-pear-horde-Horde_Queue-1.1.5 Horde Queue
+php83-pear-horde-Horde_Rdo-2.1.0 Horde Rampage Data Objects
+php83-pear-horde-Horde_Role-1.0.1 PEAR installer role for Horde components
+php83-pear-horde-Horde_Routes-2.0.5 Horde Routes URL mapping system
+php83-pear-horde-Horde_Rpc-2.1.9 Horde RPC API
+php83-pear-horde-Horde_Scheduler-2.0.3 Horde Scheduler System
+php83-pear-horde-Horde_Scribe-2.0.3 Horde Scribe client
+php83-pear-horde-Horde_Secret-2.0.6 Secret Encryption API
+php83-pear-horde-Horde_Serialize-2.0.5 Horde Data Encapulation API
+php83-pear-horde-Horde_Service_Facebook-2.0.10 Horde Facebook client
+php83-pear-horde-Horde_Service_Gravatar-1.0.1 Horde API accessor for gravatar.com
+php83-pear-horde-Horde_Service_Twitter-2.1.6 Horde Twitter client
+php83-pear-horde-Horde_Service_UrlShortener-2.0.3 Horde URL shortening services interface
+php83-pear-horde-Horde_Service_Weather-2.5.6 Horde Weather Provider
+php83-pear-horde-Horde_SessionHandler-2.3.0 Horde Session Handler API
+php83-pear-horde-Horde_Share-2.2.0 Horde Shared Permissions System
+php83-pear-horde-Horde_Socket_Client-2.1.4 Horde Socket Client
+php83-pear-horde-Horde_SpellChecker-2.1.3 Horde Spellcheck API
+php83-pear-horde-Horde_Stream-1.6.3 Horde stream handler
+php83-pear-horde-Horde_Stream_Filter-2.0.5 Horde Stream filters
+php83-pear-horde-Horde_Stream_Wrapper-2.1.5 Horde Stream wrappers
+php83-pear-horde-Horde_Support-2.2.2 Horde support package
+php83-pear-horde-Horde_SyncMl-2.0.7 Horde API for processing SyncML requests
+php83-pear-horde-Horde_Template-2.0.3 Horde Template System
+php83-pear-horde-Horde_Text_Diff-2.2.1 Horde engine for performing and rendering text diffs
+php83-pear-horde-Horde_Text_Filter-2.3.7 Horde Text Filter API
+php83-pear-horde-Horde_Text_Filter_Csstidy-2.0.1 Horde Text Filter CSS optimization class
+php83-pear-horde-Horde_Text_Flowed-2.0.4 Horde API for flowed text as per RFC 3676
+php83-pear-horde-Horde_Thrift-2.0.3 Horde Thrift Client
+php83-pear-horde-Horde_Timezone-1.1.0 Horde timezone library
+php83-pear-horde-Horde_Token-2.0.9 Horde Token API
+php83-pear-horde-Horde_Translation-2.2.2 Horde translation library
+php83-pear-horde-Horde_Tree-2.0.5 Horde Tree API
+php83-pear-horde-Horde_Url-2.2.6 Horde URL class
+php83-pear-horde-Horde_Util-2.5.9 Horde Utility Libraries
+php83-pear-horde-Horde_View-2.0.6 Horde View API
+php83-pear-horde-Horde_Xml_Element-2.0.4 Horde Xml Element object
+php83-pear-horde-Horde_Xml_Wbxml-2.0.4 Horde API for encoding and decoding WBXML documents
+php83-pear-pdepend_staticReflection-1.0.0 staticReflection package for PHP
+php83-pear-phing-2.6.1         PHP project build system based on Apache Ant
+php83-pear-pirum-Pirum-1.1.5   Simple PEAR channel server manager
+php83-pear-twig-twig-1.29.0    Flexible, fast, and secure template engine for PHP
+php83-pecl-APCu-5.1.23         APC User Caching
+php83-pecl-amqp-2.1.1          PHP extension for AMQP API
+php83-pecl-ast-1.1.1           Extension exposing PHP 7 abstract syntax tree
+php83-pecl-bitset-3.2.0        PECL extension for manipulating bitsets
+php83-pecl-couchbase-4.1.6     Couchbase Server PHP extension
+php83-pecl-crypto-0.3.2        Objective wrapper for OpenSSL Crypto Library
+php83-pecl-dio-0.2.2           PECL extension that provides direct access to low level IO
+php83-pecl-ds-1.5.0            Data Structures for PHP
+php83-pecl-eio-3.0.0.r4        Provides interface to the libeio library
+php83-pecl-ev-1.1.5            Libev extension for PHP
+php83-pecl-event-3.1.0         Provides interface to libevent library
+php83-pecl-excimer-1.2.1       Interrupting timer and a low-overhead sampling profiler
+php83-pecl-expect-0.4.0_2      PHP extension for expect library
+php83-pecl-geospatial-0.3.2    PHP Extension to handle common geospatial functions
+php83-pecl-gnupg-1.5.1         PECL wrapper around the gpgme library
+php83-pecl-grpc-1.63.0         High performance, general RPC framework
+php83-pecl-horde_lz4-1.0.10_1  Horde LZ4 Compression Extension for php
+php83-pecl-http-4.2.4_1        Extended HTTP Support
+php83-pecl-igbinary-3.2.15     Replacement for the standard PHP serializer
+php83-pecl-imagick-3.7.0_4     PHP wrapper to the ImageMagick/GraphicsMagick library
+php83-pecl-inotify-3.0.0       Inotify bindings for PHP
+php83-pecl-json_post-1.1.0     JSON POST handler in PHP
+php83-pecl-krb5-1.1.4          PECL classes for PAM integration
+php83-pecl-leveldb-0.3.0       PHP bindings for Google LevelDB
+php83-pecl-libsodium-2.0.23_3  PHP wrapper for the Sodium cryptographic library
+php83-pecl-lzf-1.7.0           Handles LZF de/compression
+php83-pecl-mailparse-3.1.6     PECL extension to create and decode MIME messages
+php83-pecl-mcrypt-1.0.7        PHP extension for mcrypt, removed in PHP 7.2
+php83-pecl-memcache-8.2        Memcached extension
+php83-pecl-memcached-3.2.0     PHP extension for interfacing with memcached via libmemcached library
+php83-pecl-mongodb-1.19.0      PECL classes for MongoDB
+php83-pecl-msgpack-2.2.0       Provides API for communicating with MessagePack serialization
+php83-pecl-mustache-0.9.3      Mustache templating language
+php83-pecl-oauth-2.0.7         Php interface to the OAuth Protocol
+php83-pecl-pam-2.2.5           PECL classes for PAM integration
+php83-pecl-pkcs11-1.1.2        PKCS11 bindings for PHP
+php83-pecl-proctitle-0.1.2_3   PECL extension that allows changing the current process' name
+php83-pecl-protobuf-4.27.1     PHP binding for Protocol buffers
+php83-pecl-psr-1.2.0           Provides accepted PSR interfaces
+php83-pecl-qrencode-0.11       PECL extension for generate qrcode
+php83-pecl-radius-1.4.0b1_2    Radius client library for PHP
+php83-pecl-raphf-2.0.1_1       Resource and persistent handles factory
+php83-pecl-rar-4.2.0_2         PECL extension to create and read RAR files
+php83-pecl-rdkafka-6.0.0       Kafka client for PHP
+php83-pecl-redis-5.3.7_1       Extension to access Redis
+php83-pecl-rrd-2.0.3           PHP bindings to rrd tool system
+php83-pecl-scrypt-2.0.1        PHP wrapper to Colin Percival's scrypt implementation
+php83-pecl-smbclient-1.1.1     Smbclient wrapper extension
+php83-pecl-solr-2.7.0          PHP extension for Apache Solr
+php83-pecl-ssh2-1.3.1          PECL extension to the libssh2 library
+php83-pecl-stomp-2.0.3         PECL extension of stomp client
+php83-pecl-swoole-5.1.3        Asynchronous, concurrent, and distributed networking framework
+php83-pecl-sync-1.1.2          Named and unnamed synchronization objects in PHP
+php83-pecl-timezonedb-2024.1   Timezone Database to be used with PHP date and time functions
+php83-pecl-uploadprogress-2.0.2 Provides track progress of a file upload
+php83-pecl-uuid-1.2.0          UUID extension in PHP
+php83-pecl-uv-0.3.0            PHP wrapper for libuv
+php83-pecl-vips-1.0.13_3       PHP bindings for libvips
+php83-pecl-vld-0.18.0          Dump the internal representation of PHP scripts
+php83-pecl-xdebug-3.3.1        Xdebug extension for PHP
+php83-pecl-xdiff-2.1.1         PECL extension to create/apply binary and text patches
+php83-pecl-xmlrpc-1.0.0.r3_2,1 PHP extension for XML-RPC servers and clients
+php83-pecl-xxtea-1.0.11        XXTEA encryption algorithm extension for PHP
+php83-pecl-yac-2.3.1,1         Shared memory user data cache for PHP
+php83-pecl-yaconf-1.1.2        PHP Persistent Configurations Container
+php83-pecl-yaf-3.3.5_1         MVC framework written as a C PHP extension
+php83-pecl-yaml-2.2.3          YAML-1.1 parser and emitter
+php83-pecl-yar-2.3.2           Yar (Yet another RPC framework) is a light, concurrent RPC framework
+php83-pecl-zephir_parser-1.6.0 Zephir Parser delivered as a C extension for the PHP language
+php83-pecl-zookeeper-1.2.1     PHP extension for interfacing with Apache ZooKeeper
+php83-pgsql-8.3.9              The pgsql shared extension for php
+php83-phalcon-5.7.0            Phalcon PHP Framework written in C-language
+php83-phar-8.3.9               The phar shared extension for php
+php83-posix-8.3.9              The posix shared extension for php
+php83-pspell-8.3.9             The pspell shared extension for php
+php83-readline-8.3.9           The readline shared extension for php
+php83-session-8.3.9            The session shared extension for php
+php83-shmop-8.3.9              The shmop shared extension for php
+php83-simplexml-8.3.9          The simplexml shared extension for php
+php83-snappy-0.2.1             PHP extension for the snappy compression algorithm
+php83-snmp-8.3.9               The snmp shared extension for php
+php83-snuffleupagus-0.10.0_1   Security module for PHP
+php83-soap-8.3.9               The soap shared extension for php
+php83-sockets-8.3.9            The sockets shared extension for php
+php83-sodium-8.3.9             The sodium shared extension for php
+php83-sqlite3-8.3.9            The sqlite3 shared extension for php
+php83-sysvmsg-8.3.9            The sysvmsg shared extension for php
+php83-sysvsem-8.3.9            The sysvsem shared extension for php
+php83-sysvshm-8.3.9            The sysvshm shared extension for php
+php83-tarantool-0.3.3          PECL PHP driver for Tarantool
+php83-tidy-8.3.9               The tidy shared extension for php
+php83-tokenizer-8.3.9          The tokenizer shared extension for php
+php83-xapian-1.4.25            PHP binding for Xapian
+php83-xml-8.3.9                The xml shared extension for php
+php83-xmlreader-8.3.9          The xmlreader shared extension for php
+php83-xmlwriter-8.3.9          The xmlwriter shared extension for php
+php83-xsl-8.3.9                The xsl shared extension for php
+php83-zephir-0.17.0            Zephir is a transpiled language used for creating C-extensions for PHP
+php83-zip-8.3.9                The zip shared extension for php
+php83-zlib-8.3.9               The zlib shared extension for php
+php83-zstd-0.11.0              Zstandard extension for PHP
+phpMyAdmin-php83-4.9.11_1      Set of PHP-scripts to manage MySQL over the web
+phpMyAdmin5-php83-5.2.1_1      Set of PHP-scripts to manage MySQL over the web
+phpldapadmin-php83-1.2.6.7     PHP application to administer LDAP over the web
+phpmyfaq-php83-3.2.6           Multilingual, completely database-driven FAQ-system
+phppgadmin-php83-7.14.7        Web Based Postgres Administration
+phpunit10-php83-10.5.21        Testing framework for unit tests
+phpunit11-php83-11.2.2         Testing framework for unit tests
+phpunit8-php83-8.5.37          Testing framework for unit tests
+phpunit9-php83-9.6.19          Testing framework for unit tests
+piwigo-php83-14.4.0_3          PHP based Web Gallery
+postfixadmin-lite-php83-3.4.d.20211018 PHP web-based management tool for Postfix virtual domains and users
+postfixadmin-php83-3.4.d.20211018 PHP web-based management tool for Postfix virtual domains and users
+postfixadmin33-lite-php83-3.3.13 PHP web-based management tool for Postfix virtual domains and users
+postfixadmin33-php83-3.3.13    PHP web-based management tool for Postfix virtual domains and users
+racktables-php83-0.22.0_1      Server room asset management suite
+rainloop-php83-1.17.0          Modern and interactive webmail
+roundcube-automatic_addressbook-php83-0.4.3 Roundcube webmail automatic addressbook plugin
+roundcube-calendar-kolab-php83-3.5.11 Roundcube Calendar plugin from Kolab
+roundcube-carddav-php83-5.1.0  Roundcube CardDAV plugin
+roundcube-classic-php83-1.6.0  Larry skin/theme for Rouncube webmail
+roundcube-contextmenu-php83-3.3.1 RoundCube webmail contextmenu plugin
+roundcube-gravatar-php83-1.6   Roundcube gravatar plugin
+roundcube-html5_notifier-php83-0.6.4 HTML5 desktop notifier plugin for roundcube
+roundcube-identity_smtp-php83-1.6.0,1 Roundcube plugin to setup different SMTP settings per identity
+roundcube-larry-php83-1.6.1    Larry skin/theme for Rouncube webmail
+roundcube-login_info-php83-1.5.1 Roundcube login info plugin
+roundcube-php83-1.6.9,1        Fully skinnable XHTML/CSS webmail written in PHP
+roundcube-sauserprefs-php83-1.20 Roundcube plugin to manage SpamAssassin prefs
+roundcube-thunderbird_labels-php83-1.6.1 Thunderbird Labels plugin for RoundCube webmail
+roundcube-tls_icon-php83-1.3.1 Roundcube tls_icon plugin
+roundcube-twofactor_gauthenticator-php83-g20231119 Roundcube TOTP auth plugin
+roundcube-veximaccountadmin-php83-0.1.20171224 Roundcube vexim account admin plugin
+roundcube-yubikey_auth-php83-g20180404 Roundcube yubikey auth plugin
+self-service-password-php83-1.5.0 Set of PHP-scripts to change LDAP password over the web
+smarty-php83-5.3.1             PHP compiling template engine
+smarty3-php83-3.1.48           PHP compiling template engine
+smarty4-php83-4.5.3            PHP compiling template engine
+snappymail-php83-2.38.0        Simple, modern, lightweight & fast web-based email client
+squirrelmail-abook_import_export-plugin-php83-1.1_2 Allows for the importing of addressbooks from a CSV (comma separated values) file
+squirrelmail-askuserinfo-plugin-php83-1.1_2 Ask user to enter Full name and Email address at initial logon
+squirrelmail-avelsieve-plugin-php83-1.9.9 SquirrelMail plugin for Server-Side Mail Filtering management
+squirrelmail-calendar_file_backend-plugin-php83-1.0_3 File backend for SquirrelMail Calendar plugin
+squirrelmail-change_ldappass-plugin-php83-2.2_6 Allows users to change their passwords stored in LDAP Tree
+squirrelmail-check-quota-plugin-php83-2.2_3 Check/display users' mail quota (filesystem, IMAP-based, and cPanel)
+squirrelmail-compatibility-plugin-php83-2.0.16_1 Required by many plugins for compatibility with SquirrelMail
+squirrelmail-email_footer-plugin-php83-0.6_1 Automatically appends footer to SquirrelMail-generated emails
+squirrelmail-login_auth-plugin-php83-3.0_2 Automatically log in user based on HTTP authentication
+squirrelmail-login_notes-plugin-php83-1.2_2 Place notes on the login screen
+squirrelmail-mark_read-plugin-php83-1.4.2_4 Provides one-click link to mark read/unread all mails in a folder
+squirrelmail-multilogin-plugin-php83-2.4_3 Allows manual selection of login server on login page
+squirrelmail-notes-plugin-php83-1.2_3 Allows you to create notes
+squirrelmail-notify-plugin-php83-1.3_3 Notify when new mail arrives
+squirrelmail-password_forget-plugin-php83-2.3 Prevent reuse of login details by browsers at public terminals
+squirrelmail-php83-20230207    Webmail system which accesses mail over IMAP
+squirrelmail-plugins-php83-1.0_2 "meta-port" to install SquirrelMail plugins
+squirrelmail-pupdate-plugin-php83-0.7_4 Checks for plugin updates by parsing the SM site
+squirrelmail-qmailadmin_login-plugin-php83-1.1_4 Using the QmailAdmin cgi interface from SquirrelMail
+squirrelmail-quota_usage-plugin-php83-1.3.1_3 View quota and current usage
+squirrelmail-secure_login-plugin-php83-1.4_3 Automatically turn on SSL security during login
+squirrelmail-shared_calendars-plugin-php83-2.0.1_3 iCal-compliant calendaring for SquirrelMail
+squirrelmail-spam-buttons-plugin-php83-2.3.1_2 Provides buttons with customizable action (for reporting spam, etc.)
+squirrelmail-squirrel_logger-plugin-php83-2.3_2 Logging functionality for your webmail interface
+squirrelmail-timeout_user-plugin-php83-1.1.1_5 Automatically logs a user out if they're idle for a set amount of time
+squirrelmail-translations-php83-20200422 NLS translations for Squirrelmail (mail/squirrelmail)
+squirrelmail-unsafe_image_rules-plugin-php83-0.8_3 Determines what unsafe (web) images will be shown
+squirrelmail-user_special_mailboxes-plugin-php83-0.1_3 Lets define folders to be displayed at the top of the folders list
+squirrelmail-vlogin-plugin-php83-3.10.2_2 Adds multi-site-hosting capabilities to SquirrelMail
+squirrelmail-web_search-plugin-php83-0.1.6_4 Plugin for Websearch
+squirrelmail-wetteronline-plugin-php83-0.1_3 Plugin for the weather in Germany
+suphp-php83-0.7.2_2            Securely execute PHP scripts under Apache
+tcexam-php83-16.3.2            Open Source system for electronic exams
+tt-rss-php83-g20240421_2,2     Tiny Tiny RSS: web-based news feed (RSS/Atom) aggregator
+typo3-11-php83-11.5.38         Typo3 content management system
+typo3-12-php83-12.4.16         Typo3 content management system
+typo3-13-php83-13.1.1          Typo3 content management system
+unit-php83-1.32.1_1            PHP module for NGINX Unit
+vexim-php83-2.3_4              Web interface for managing virtual domains for exim
+websvn-php83-2.8.4             Online Subversion repository browser
+zabbix6-frontend-php83-6.0.31  Enterprise-class open source distributed monitoring (frontend-php83)
+zabbix64-frontend-php83-6.4.16 Enterprise-class open source distributed monitoring (frontend-php83)
+zabbix7-frontend-php83-7.0.1   Enterprise-class open source distributed monitoring (frontend-php83)
+zenphoto-php83-1.6.4           Simpler web photo gallery
